@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 1 Recursion/Day 1 Recursion.iml" filepath="$PROJECT_DIR$/Day 1 Recursion/Day 1 Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 2 Recursion/Day 2 Recursion.iml" filepath="$PROJECT_DIR$/Day 2 Recursion/Day 2 Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 3 Two Pointer/Day 3 Two Pointer.iml" filepath="$PROJECT_DIR$/Day 3 Two Pointer/Day 3 Two Pointer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 4 Two Pointer/Day 4 Two Pointer.iml" filepath="$PROJECT_DIR$/Day 4 Two Pointer/Day 4 Two Pointer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 5 SlidingWindow and 2Pointer/Day 5 SlidingWindow and 2Pointer.iml" filepath="$PROJECT_DIR$/Day 5 SlidingWindow and 2Pointer/Day 5 SlidingWindow and 2Pointer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 6 LinkedList/Day 6 LinkedList.iml" filepath="$PROJECT_DIR$/Day 6 LinkedList/Day 6 LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 7 LinkedList and stack/Day 7 LinkedList and stack.iml" filepath="$PROJECT_DIR$/Day 7 LinkedList and stack/Day 7 LinkedList and stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 8 Queues/Day 8 Queues.iml" filepath="$PROJECT_DIR$/Day 8 Queues/Day 8 Queues.iml" />
+    </modules>
+  </component>
+</project>
