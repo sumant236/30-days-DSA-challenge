@@ -21,10 +21,9 @@ Here is the exact breakdown of my daily grind:
 * **Day 7: Linked List & Stacks (The Monotonic Series)**
     * Next Greater Element, Stock Span Problem, and the complex *Largest Rectangle in Histogram* using Monotonic Stacks.
 * **Day 8: Queues & Cross-Implementations**
-    * `QueueUsingStacks` (Amortized $O(1)$ dequeues).
-    * `StackUsingQueues` ($O(n)$ push, $O(1)$ pop logic).
-    * `CircularQueue` (Optimized memory reuse using the Modulo `%` operator).
-* **Day 9+: Trees & Graphs** *(Coming Soon ⏳)*
+    * Queue Using Stacks, Stack Using Queues, Circular Queue.
+* **Day 9: Revision Day1-8**
+    * Sorting012, Min Stack, Max Sliding Window, Adding two Numbers in LinkedList
 
 ## 🔥 Key Technical Highlights
 - **Amortized Analysis:** Implemented "Palti" (Two-Stack Flip) logic for efficient queue operations.

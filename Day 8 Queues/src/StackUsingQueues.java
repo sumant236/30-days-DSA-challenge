@@ -8,7 +8,7 @@ public class StackUsingQueues {
     void add(int num){
         q2.add(num);
         while(!q1.isEmpty()){
-            q2.add(q1.remove());
+            q2.add(q1.poll());
         }
         Queue<Integer> temp = q2;
         q2= q1;
@@ -20,6 +20,6 @@ public class StackUsingQueues {
             System.out.println("Stack is Empty!");
             return -1;
         }
-        return q1.remove();
+        return q1.poll();
     }
 }
