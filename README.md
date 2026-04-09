@@ -24,6 +24,9 @@ Here is the exact breakdown of my daily grind:
     * Queue Using Stacks, Stack Using Queues, Circular Queue.
 * **Day 9: Revision Day1-8**
     * Sorting012, Min Stack, Max Sliding Window, Adding two Numbers in LinkedList
+* **Day 10: Binary Trees Foundation**
+    * In/Pre/Post-order DFS, Level Order BFS, Max Depth of Tree
+  
 
 ## 🔥 Key Technical Highlights
 - **Amortized Analysis:** Implemented "Palti" (Two-Stack Flip) logic for efficient queue operations.

@@ -17,7 +17,7 @@ public class PrintPostOrderTraversal {
         System.out.println("🌳 Tree Banana Shuru Karein 🌳");
         tree.root = tree.buildTree(sc);
 
-        System.out.println("The In-Order Traversal:");
+        System.out.println("The Post-Order Traversal:");
         printPostOrder(tree.root);
     }
 }
