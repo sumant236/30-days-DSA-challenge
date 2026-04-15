@@ -1,5 +1,7 @@
 public class BinarySearchTree {
-    static Node searchValue(Node root, int num){
+    public Node root;
+
+    public Node searchValue(Node root, int num){
         if(root == null || root.val == num){
             return root;
         }
@@ -10,7 +12,7 @@ public class BinarySearchTree {
         }
     }
 
-    static Node insert(Node root, int num){
+    public Node insert(Node root, int num){
         if(root == null){
             return new Node(num);
         }
@@ -22,7 +24,7 @@ public class BinarySearchTree {
         return root;
     }
 
-    static Node delete(Node root, int num){
+    public Node delete(Node root, int num){
         if (root == null) return null;
 
         // Pehle node ko dhoondho (Search logic)
@@ -49,7 +51,7 @@ public class BinarySearchTree {
         return root;
     }
 
-    static Node findSuccessor(Node root ){
+    Node findSuccessor(Node root ){
         // Left mein tab tak jao jab tak null na mil jaye
         while(root.left != null){
             root= root.left;
